@@ -1,0 +1,5 @@
+Hello Github!
+
+I am a first-year Computer Science student.
+I am learning Git and Github.
+My goal is to become a skilled software developer.
